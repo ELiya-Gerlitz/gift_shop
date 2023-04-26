@@ -1,0 +1,9 @@
+.AddGift {
+
+}
+
+input , select{
+    margin: 10px;
+    width: 250px;
+    height: 30px;
+}

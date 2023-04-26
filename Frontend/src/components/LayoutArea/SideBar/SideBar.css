@@ -1,0 +1,36 @@
+.SideBar {
+	height: 100%;
+	/* padding-bottom: 20px; */
+	margin-top: 30px ;
+	/* margin-bottom: 30px ; */
+	color: aliceblue;
+
+}
+hr{
+	margin-top: 30px;
+}
+a {
+	/* size: 40px; */
+	font-size: x-large;
+}
+
+a:link {
+	color: aliceblue;
+	background-color: transparent;
+	text-decoration: none;
+  }
+  a:visited {
+	color: pink;
+	background-color: transparent;
+	text-decoration: none;
+  }
+  a:hover {
+	color: red;
+	background-color: transparent;
+	text-decoration: underline;
+  }
+  a:active {
+	color: yellow;
+	background-color: transparent;
+	text-decoration: underline;
+  }

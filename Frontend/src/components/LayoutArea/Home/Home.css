@@ -1,0 +1,11 @@
+.Home {
+	margin: 50px;
+    height: 100%;
+    color: rgb(243, 222, 226);
+    row-gap: 70px;
+}
+img{
+    height: 70vh;
+    border-radius: 20px;
+}
+

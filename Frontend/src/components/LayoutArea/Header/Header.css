@@ -1,0 +1,11 @@
+h1 {
+    font-size: 54px;
+}
+hr{
+    color: blue;
+}
+.Header{
+    height: 100%;
+    /* padding: 50px; */
+    margin-top: 40px;
+}

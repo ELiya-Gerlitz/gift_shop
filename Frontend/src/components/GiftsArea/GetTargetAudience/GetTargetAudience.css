@@ -1,0 +1,31 @@
+.GetTargetAudience {
+	
+}
+
+h3{
+    color: rgb(139, 42, 118);
+}
+
+.clickme{
+    color: rgb(247, 232, 243) ;
+}
+
+button{
+    background-color:rgb(7, 23, 58);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px ;
+    margin-top: 25px;
+    margin-right: 5px;
+}
+button:hover{
+    background-color: rgb(5, 8, 8);
+}
+button > a {
+    font-size: medium;
+}

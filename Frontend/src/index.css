@@ -1,0 +1,14 @@
+body {
+  color: rgb(212, 212, 241);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-image: url("https://img.freepik.com/free-photo/navy-blue-concrete-wall-with-scratches_53876-102666.jpg?size=626&ext=jpg&ga=GA1.1.1103567159.1597658053&semt=robertav1_2_sidr");
+  /* background-repeat: no-repeat; */
+  background-size: cover;
+  background-color: rgb(248, 25, 9);
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
